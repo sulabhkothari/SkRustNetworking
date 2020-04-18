@@ -1,0 +1,9 @@
+*.class
+*.log
+*.impl
+*.xml
+.idea
+project
+target
+*.z
+*.o
